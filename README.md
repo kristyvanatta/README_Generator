@@ -1,23 +1,29 @@
-# README-Generator
+# 
 ## Table of Contents
-*[link](#Description)
-*[link](#Installation)
-*[link](#Usage)
-*[link](#License)
-*[link](#Contributing)
-*[link](#Tests)
-*[link](#Questions)
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
-## creates an auto-generated README file
-## uses npm installatiion with dependencies
-## undefined
-## undefined
-//a license badge is added near the top of the file and a notice is added to the license section
-## undefined
-## undefined
-## undefined
-[link](https://github.com/kristyvanatta)
+## Description
+
+## Installation
+
+## Usage
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Contributing
+
+## Tests
+
+## Questions
+
+[GitHub](https://github.com/kristyvanatta)
 Please feel free to email me with any additional questions
 <kristylvanatta@gmail.com>
 
- 
