@@ -27,9 +27,15 @@ ${contributing}
 ${tests}
 ## Questions
 ${questions}
+
 [GitHub](https://github.com/kristyvanatta)
-Please feel free to email me with any additional questions
-<kristylvanatta@gmail.com>
+
+Please feel free to email me with any additional questions  
+
+<kristylvanatta@gmail.com>  
+
+[video](https://drive.google.com/file/d/1LFPwUc3_FjHPuSNyoNU4tj2Gknow9FWH/view?usp=sharing)
+
 
 `;
 
